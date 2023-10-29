@@ -1,0 +1,24 @@
+.text {
+  color: var(--text-color);
+  &.heading {
+
+  }
+  &.subheading {
+    font-size: 1.5rem;
+  }
+  &.body {
+
+  }
+  &.caption {
+
+  }
+  &.button {
+
+  }
+  &.link {
+
+  }
+  &.paragraph {
+
+  }
+}
